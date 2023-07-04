@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
 }
 
 .titulo {
@@ -9,5 +9,15 @@ body {
 }
 
 #imagem {
-    width: 250px;
+    width: 150px;
+}
+
+.historia {
+    margin-right: 350px;
+    width: 500px, 500px,500px,500px;
+    height: 500px, 500px,500px,500px;
+}
+
+.texto {
+    color: red;
 }
