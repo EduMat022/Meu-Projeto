@@ -1,10 +1,15 @@
 body {
-    background-color: rgb(0, 0, 0);
-    
+    background-color: black;
+    margin: 25px;
 }
 
 .fonte {
     font-family: 'Sedgwick Ave Display', cursive;font-family: 'Sedgwick Ave Display', cursive;
+    color: red;
+}
+
+.titulo {
+    font-family: 'Rajdhani', sans-serif;
     color: red;
 }
 
@@ -14,6 +19,12 @@ body {
 
 #imagem {
     width: 150px;
+}
+
+#imagem2 {
+    width: 500px;
+    margin-left: 500px;
+    top: 300px;
 }
 
 .texto {
